@@ -6,7 +6,7 @@
 <body>
 	<h1>TP0 HOLA MUNDO!</h1>
 
-<h2>Información Personal</h2>
+<h2>Información Personal<h2>
 <ul>
 	<li>Curso: Sintaxis y Semántica de los Lenguajes</li>
 	<li>Año de cursada: 2023</li>
